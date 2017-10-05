@@ -1,0 +1,27 @@
+html,body{
+ 	margin: 0; 	 
+ 	font-family: Arial, sans-serif;	
+}
+
+ul{
+ 	margin: 0;
+ 	padding: 0;
+}
+
+body{
+	margin-top:50px;		
+}
+
+.cv{  
+  font-style: italic;
+  padding-bottom:20px;
+}
+
+.addres span{	
+	margin-right: 10px;	
+}
+
+.addres a{
+	color:#000;
+}
+
