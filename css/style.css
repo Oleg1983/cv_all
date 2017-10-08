@@ -25,3 +25,17 @@ body{
 	color:#000;
 }
 
+.addres img{
+	width:150px;
+}
+
+.btn{
+	text-transform: uppercase;
+}
+
+.language{
+	position: absolute;
+	z-index: 9999;
+	right: 15px;
+	top: 8px;
+}
